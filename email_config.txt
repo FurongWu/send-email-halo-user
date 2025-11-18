@@ -1,0 +1,6 @@
+sender_email=admin@rongtech.top
+sender_password=
+smtp_server=smtp.rongtech.top
+smtp_port=25
+subject=rongtech网站域名更换通知
+content_file=email_content.txt
